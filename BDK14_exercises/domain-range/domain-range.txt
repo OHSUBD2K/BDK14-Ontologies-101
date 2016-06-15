@@ -1,0 +1,21 @@
+
+In this exercise we will illustrate how object properties can be used to subclassify classes that are restricted by them.
+
+# Create a new ontology.
+# Add the following class hierarchy (Hint: Try to cut and paste to enter the hierarchy into functionality you learned about previously):
+
+depressor mandibulae muscle
+leveator quadrati
+muscle
+nerve
+  facial nerve
+  trigeminal nerve
+
+# Add the following:
+
+* An object property named 'is_innervated_by'
+* Add a domain on 'is_innervated_by' - 'muscle'
+* To 'depressor mandibulae muscle' a subclass restriction "is innervated_by some 'facial nerve'"
+* To 'leveator quadrati' a subclass restriction "is innervated_by some 'trigeminal nerve'"
+
+Now run the reasoner and inspect the inferred class hierarchy.  What do you find? 
