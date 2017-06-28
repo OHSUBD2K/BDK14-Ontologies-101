@@ -1,0 +1,12 @@
+#folders to not track
+node_modules
+
+#Untracked files
+Thumbs.db
+
+
+*_exercises.zip
+
+*_SCORM12.zip
+*_Tin_Can.zip
+*_overview.pdf
