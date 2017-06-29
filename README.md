@@ -71,6 +71,6 @@ As a result, the materials provided here have limited imagery as we intend for t
 
 **Where do I find images?** There are several sources that might be available to you.  Depending on how you plan on using the BD2K modules, you may have more flexibility to locate images.  Once you have identify the license that you wish to use, you can search with those restrictions in mind.
 
-- Google Images:  Head to Google Advanced Image Search (http://www.google.com/advanced_image_search) and under the “usage rights” filter, select the filter that matches your requirements.
+- Google Images:  Head to [Google Advanced Image Search](http://www.google.com/advanced_image_search) and under the “usage rights” filter, select the filter that matches your requirements.
 - Flickr Creative Commons:  Many users of Flickr have elected to allow their photographs to be reused.  To browse or search for CC licensed images, head to https://www.flickr.com/creativecommons/  
 - Institutional licenses: depending on your home institution, your library may subscribe to an image database that may be useful.  Please consult with your librarian to see if such assets are available to you.
