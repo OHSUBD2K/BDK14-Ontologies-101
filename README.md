@@ -43,7 +43,7 @@ Unit 3 Slides: BDK14-3.pptx
 Exercises: BDK14\_exercises.zip
 
 Contains:
-- BDK14\_Exercise_1\_Staged.doc
+- BDK14_Exercise_1_Protege5.1.doc
 - BDK14\_RecommendedReadings.pdf
 
 Folders:
