@@ -43,9 +43,6 @@ Unit 3 Slides: BDK14-3.pptx
 **Exercises:**
 BDK14_exercises/BDK14_Exercise_1_Protege5.1.doc
 
-**Recommended readings:**
-BDK14_exercises/BDK14_RecommendedReadings.pdf
-
 Folders:
 - basic-classification
 - basic-disjoint
@@ -54,6 +51,9 @@ Folders:
 - basic-subclass
 - domain-range
 - taxon-union
+
+**Recommended readings:**
+BDK14_exercises/BDK14_RecommendedReadings.pdf
 
 ## A note on Figures and Images
 
