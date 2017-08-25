@@ -40,11 +40,11 @@ Unit 3 Slides: BDK14-3.pptx
 
 ### Module Supplemental Materials
 
-Exercises: BDK14\_exercises.zip
+**Exercises:**
+BDK14_exercises/BDK14_Exercise_1_Protege5.1.doc
 
-Contains:
-- BDK14_Exercise_1_Protege5.1.doc
-- BDK14\_RecommendedReadings.pdf
+**Recommended readings:**
+BDK14_exercises/BDK14_RecommendedReadings.pdf
 
 Folders:
 - basic-classification
