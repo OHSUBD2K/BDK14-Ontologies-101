@@ -26,7 +26,7 @@ At the completion of this component, the learner will be able to:
 **Module Prerequisites:** None
 
 ## Module Units
-### Unit 1: Controlled vocabularies, Ontologies, and data linking
+### Unit 1: Controlled Vocabularies, Ontologies, and Data Linking
 
 Unit 1 Slides: BDK14-1.pptx
 
