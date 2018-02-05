@@ -53,7 +53,7 @@ Folders:
 - taxon-union
 
 **Recommended readings:**
-BDK14_exercises/BDK14_RecommendedReadings.pdf
+[BDK14_exercises/BDK14_RecommendedReadings.pdf](https://github.com/OHSUBD2K/BDK14-Ontologies-101/blob/master/BDK14_exercises/BDK14_RecommendedReadings.pdf)
 
 ## Additional resources
 
