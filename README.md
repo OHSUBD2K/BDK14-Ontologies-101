@@ -12,7 +12,8 @@
 
 Introduction to OWL2 and data reasoning
 
-**Team Lead(s):** Melissa Haendel, Nicole Vasilevsky
+**Team Lead:** Nicole Vasilevsky
+
 **Team Members:** Melissa Haendel, Nicole Vasilevsky, David Osumi-Sutherland, Matt Yoder, Carlo Torniai
 
 ## Module Objectives:
