@@ -1,9 +1,5 @@
 # BD2K Open Educational Resources
 
-
-# BD2K OER Materials Blueprint
-
-
 ## Module Number: BDK14
 
 **Module Title:** Ontologies 101
