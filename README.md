@@ -1,8 +1,6 @@
 # BD2K Open Educational Resources
 
-## Module Number: BDK14
-
-**Module Title:** Ontologies 101
+## BDK14 Ontologies 101
 
 **Module Description:**
 
