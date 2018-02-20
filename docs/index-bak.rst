@@ -9,10 +9,10 @@ Welcome to Ontology101Tutorial's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-IntialPreparation
-StartingProtege
-EntitiesTab
+   
+   IntialPreparation
+   StartingProtege
+   EntitiesTab
 
 Indices and tables
 ==================
