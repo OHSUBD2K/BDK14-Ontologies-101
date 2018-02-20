@@ -36,7 +36,7 @@ When you start Protégé you are presented with a default empty ontology. Note t
 
 ![Fig1](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-![Fig1](https://github.com/OHSUBD2K/BDK14-Ontologies-101/blob/master/docs/_static/Figure1.png "Logo Title Text 1")
+![Fig1_1](https://github.com/OHSUBD2K/BDK14-Ontologies-101/blob/master/docs/_static/Figure1.png "Title")
 
 
 
