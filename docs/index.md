@@ -3,8 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to the Ontology 101 Tutorial
-===============================================
+## Welcome to the Ontology 101 Tutorial
 ### History of this tutorial
 
 This tutorial was based upon an earlier version developed at a [Hinxton Workshop](http://wiki.geneontology.org/index.php/Hinxton_OBO-Edit/Protege_4_workshop_Jan_2012) authored by Chris Mungall, David Osumi-Sutherland, and Simon Jupp.
@@ -15,17 +14,13 @@ Here, Nicole Vasilevsky has updated and augmented the tutorial for use with Prot
 
 Thank you to Kent Shefchek for help with conversion to ReadTheDocs.
 
-Initial Preparation
-===============================================
+## Initial Preparation
 
-Starting Protégé
-===============================================
+## Starting Protégé
 
-The entities tab
-===============================================
+## The entities tab
 
-EXERCISE: Basic Subclass Hierarchy
-===============================================
+## EXERCISE: Basic Subclass Hierarchy
 
 Indices and tables
 ==================
