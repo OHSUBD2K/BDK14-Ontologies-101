@@ -1,8 +1,3 @@
-.. Ontology101Tutorial documentation master file, created by
-   sphinx-quickstart on Tue Feb 20 10:22:22 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 ### Welcome to the Ontology 101 Tutorial
 #### History of this tutorial
 
@@ -87,6 +82,7 @@ The active ontology tab contains additional information about the ontology that 
 
 ### Exercise: Basic Subclass Hierarchy
 
+From ReadTheDocs (maybe can remove?)
 Indices and tables
 ==================
 
@@ -99,3 +95,10 @@ This will be my documentation.
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   .. Ontology101Tutorial documentation master file, created by
+   sphinx-quickstart on Tue Feb 20 10:22:22 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+
