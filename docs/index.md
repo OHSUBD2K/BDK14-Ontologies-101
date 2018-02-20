@@ -33,9 +33,9 @@ To download Protégé, go to: [http://protege.stanford.edu/](http://protege.stan
 
 When you start Protégé you are presented with a default empty ontology. Note that command line users on the Mac can type “open <FILE>.owl” to open the ontology in Protégé.
 
-![alt text][logo]
+![alt text][Fig1]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[Fig1]: https://github.com/OHSUBD2K/BDK14-Ontologies-101/blob/master/docs/images/Figure1.jpg "Figure 1"
 
 ![Figure 1](https://github.com/OHSUBD2K/BDK14-Ontologies-101/blob/master/docs/images/Figure1.jpg "Figure 1")
 
