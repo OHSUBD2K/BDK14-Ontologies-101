@@ -43,10 +43,15 @@ Figure 28
 You will add the annotation values listed are below, detailed instructions follow. Make sure you click on the correct annotation on the left for each annotation.
 
 **id:** GO\_0005657
+
 **rdfs: label:** replication fork
+
 **definition:** The Y-shaped region of a replicating DNA molecule, resulting from the separation of the DNA strands and in which the synthesis of new strands takes place. Also includes associated protein complexes.
+
 **database\_cross\_reference:** ISBN:0198547684
+
 **has\_related\_synonym:** replication focus
+
 **xref:** Wikipedia:Replication\_fork
 
 _Detailed instructions:_
