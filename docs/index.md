@@ -5,9 +5,15 @@
 
 Welcome to the Ontology 101 Tutorial
 ===============================================
+### History of this tutorial
 
-History of this Document
-===============================================
+This tutorial was based upon an earlier version developed at a [Hinxton Workshop](http://wiki.geneontology.org/index.php/Hinxton_OBO-Edit/Protege_4_workshop_Jan_2012) authored by Chris Mungall, David Osumi-Sutherland, and Simon Jupp.
+
+In 2012 and 2013, Melissa Haendel and Matt Yoder created a full tutorial for the NESCent/Phenoscape sponsored Ontology short course. Related files, and the short course version of this document are available [here](https://github.com/NESCent/ontologies-in-evobio-course-2013).
+
+Here, Nicole Vasilevsky has updated and augmented the tutorial for use with Protégé 5.1, with funding from BD2K grant: 1R25GM114820. 
+
+Thank you to Kent Shefchek for help with conversion to ReadTheDocs.
 
 Initial Preparation
 ===============================================
