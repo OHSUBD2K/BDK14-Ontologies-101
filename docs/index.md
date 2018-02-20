@@ -82,9 +82,28 @@ Figure8
 
 The active ontology tab contains additional information about the ontology that we will explore later. These include a panel for managing ontology imports.
 
-#### Starting Protégé
-
 ### The entities tab
+
+You will see along the top of the screen various tabs. Each tab provides a different perspective on the ontology. An entity is any class, property (object, data, or annotation), or individual. For example, the classes tab allows us to view and edit the classes in the ontology, and similarly the object properties tab focuses on the object properties in the ontology. The _primary tab_ where you will spend most of your time is the Entities tab.
+
+Figure 9
+
+Select the Entities tab and then select the Thing class. Thing is the root class for all OWL ontologies and it cannot be deleted in Protégé.  
+
+The Entities tab is split into two halves. The left-hand side provides a suite of panels for selecting various entities in your ontology. When a particular entity is selected the panels on the right-hand side display information about that entity. The entities panel is context specific, so if you have a class selected (like Thing) then the panels on the right are aimed at editing classes. The panels on the right are customizable. Based on prior use you may see new panes or alternate arrangements. 
+
+Figure 10
+
+#### Creating your first class
+
+By far the most common panel for working with your ontology is the **Class hierarchy panel.**
+
+Figure 11
+
+There are three button at the top of the class hierarchy view. These allow you to add a **subclass (L-shaped icon)**, **add a sibling class (c-shaped icon)**, or **delete a selected class (x’d circle)**. Click the add subclass button to add a child class to OWL thing. 
+
+Figure 12
+
 
 ### Exercise: Basic Subclass Hierarchy
 
