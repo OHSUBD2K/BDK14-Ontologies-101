@@ -60,14 +60,13 @@ Figure 4
 
 The first tab you see is the Active Ontology tab. Here you will find some basic meta-data about the ontology you are viewing. At the very top you see the IRI and file name of the active ontology you are viewing. Protégé allows you to work with multiple ontologies at once, so _this top bar is very important as it lets you know which ontology you are viewing and editing_.
 
-Note: if you open a new ontology while viewing your current ontology, Protégé will ask you if you&#39;d like to open it in a new window. If you select &#39;no&#39;, it will open in the current window and you can then switch back and forth to it from the Active Ontology tab.
+Note: if you open a new ontology while viewing your current ontology, Protégé will ask you if you&#39;d like to open it in a new window. If you select no;, it will open in the current window and you can then switch back and forth to it from the Active Ontology tab.
 
 If you say yes, it will open in a new window. If you use a Mac, you can toggle back and forth between each window by using the hot keys Command ~.
 
 Figure5
 
-
-The panel in the center is the ontology annotations panel. You can use this panel to add basic meta-data to your ontology, such as the creation date, the authors and a short description. Using the annotation panel, create a simple comment on the ontology describing what it is about. First select the + button that is labelled &quot;Annotations&quot;.
+The panel in the center is the ontology annotations panel. You can use this panel to add basic meta-data to your ontology, such as the creation date, the authors and a short description. Using the annotation panel, create a simple comment on the ontology describing what it is about. First select the + button that is labelled Annotations.
 
 Figure6
 
@@ -75,7 +74,7 @@ A dialog will open, select the comment annotation on the left, and type your tex
 
 Figure7
 
-The comment should appear in the ontology annotations where you have the option to either edit or delete it.   Throughout the application, the grey-circle icons have related functionality: a &quot;+&quot; is used to add, &quot;x&quot; to delete, and &quot;o&quot; to edit.
+The comment should appear in the ontology annotations where you have the option to either edit or delete it. Throughout the application, the grey-circle icons have related functionality: a **+** is used to add, **x** to delete, and **o** to edit.
 
 Figure8
 
