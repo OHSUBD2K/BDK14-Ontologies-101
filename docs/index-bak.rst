@@ -10,7 +10,9 @@ Welcome to Ontology101Tutorial's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-# This will be my documentation- welcome
+IntialPreparation
+StartingProtege
+EntitiesTab
 
 Indices and tables
 ==================
