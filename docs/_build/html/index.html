@@ -6,7 +6,7 @@
   <head>
         <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Welcome to Ontology101Tutorial’s documentation! &#8212; Ontology101Tutorial 1.0 documentation</title>
+    <title>Ontology 101 Tutorial &#8212; Ontology101Tutorial 1.0 documentation</title>
     <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
     <script type="text/javascript" src="_static/documentation_options.js"></script>
@@ -29,27 +29,98 @@
         <div class="bodywrapper">
           <div class="body" role="main">
             
-  <p>.. Ontology101Tutorial documentation master file, created by
-sphinx-quickstart on Tue Feb 20 10:22:22 2018.
-You can adapt this file completely to your liking, but it should at least
-contain the root <code class="docutils literal notranslate"><span class="pre">toctree</span></code> directive.</p>
-<div class="section" id="welcome-to-ontology101tutorial-s-documentation">
-<span id="welcome-to-ontology101tutorial-s-documentation"></span><h1>Welcome to Ontology101Tutorial’s documentation!<a class="headerlink" href="#welcome-to-ontology101tutorial-s-documentation" title="Permalink to this headline">¶</a></h1>
-<p>.. toctree::
-:maxdepth: 2
-:caption: Contents:</p>
+  <div class="section" id="ontology-101-tutorial">
+<span id="ontology-101-tutorial"></span><h1>Ontology 101 Tutorial<a class="headerlink" href="#ontology-101-tutorial" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="history-of-this-tutorial">
+<span id="history-of-this-tutorial"></span><h2>History of this tutorial<a class="headerlink" href="#history-of-this-tutorial" title="Permalink to this headline">¶</a></h2>
+<p>This tutorial was based upon an earlier version developed at a <a class="reference external" href="http://wiki.geneontology.org/index.php/Hinxton_OBO-Edit/Protege_4_workshop_Jan_2012">Hinxton Workshop</a> authored by Chris Mungall, David Osumi-Sutherland, and Simon Jupp.</p>
+<p>In 2012 and 2013, Melissa Haendel and Matt Yoder created a full tutorial for the NESCent/Phenoscape sponsored Ontology short course. Related files, and the short course version of this document are available <a class="reference external" href="https://github.com/NESCent/ontologies-in-evobio-course-2013">here</a>.</p>
+<p>Here, Nicole Vasilevsky has updated and augmented the tutorial for use with Protégé 5.1, with funding from BD2K grant: 1R25GM114820.</p>
+<p>Thank you to Kent Shefchek for help with conversion to ReadTheDocs.</p>
 </div>
-<div class="section" id="this-will-be-my-documentation-welcome">
-<span id="this-will-be-my-documentation-welcome"></span><h1>This will be my documentation- welcome<a class="headerlink" href="#this-will-be-my-documentation-welcome" title="Permalink to this headline">¶</a></h1>
 </div>
-<div class="section" id="indices-and-tables">
-<span id="indices-and-tables"></span><h1>Indices and tables<a class="headerlink" href="#indices-and-tables" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="initial-preparation">
+<span id="initial-preparation"></span><h1>Initial Preparation<a class="headerlink" href="#initial-preparation" title="Permalink to this headline">¶</a></h1>
+<p>These exercises were tested under Protégé 5.1.</p>
+<p>Associated exercise files are in the Exercises folder. The files included are:</p>
+<ul class="simple">
+<li>basic-classification</li>
+<li>basic-disjoint</li>
+<li>basic-dl-query</li>
+<li>basic-restriction</li>
+<li>basic-subclass</li>
+<li>domain-range</li>
+<li>taxon-union</li>
+</ul>
+<p><em>Note: some screenshots may appear different if you are using a prior version of Protégé.</em></p>
+<div class="section" id="dowloading-protege">
+<span id="dowloading-protege"></span><h2>Dowloading Protégé<a class="headerlink" href="#dowloading-protege" title="Permalink to this headline">¶</a></h2>
+<p>To download Protégé, go to: <a class="reference external" href="http://protege.stanford.edu/">http://protege.stanford.edu/</a></p>
+</div>
+</div>
+<div class="section" id="starting-protege">
+<span id="starting-protege"></span><h1>Starting Protégé<a class="headerlink" href="#starting-protege" title="Permalink to this headline">¶</a></h1>
+<p>When you start Protégé you are presented with a default empty ontology. Note that command line users on the Mac can type “open <FILE>.owl” to open the ontology in Protégé.</p>
+<p><img alt="Fig1" src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" />
+<img alt="" src="_images/Figure1.png" /></p>
+<p>Add Figure 1</p>
+<p>We will begin by clicking into the Ontology IRI field and providing an IRI. The IRI will be used to identify our ontology on the Web. You can set the IRI to anything you want at this stage, for this tutorial we will use “http://purl.obolibrary.org/obo/owl-tutorial/ao-workshop.owl”</p>
+<p>Figure2</p>
+<p>You will also want to save this ontology file to your computer. Under the File menu select Save.  Use the next dialog box to specify the format of your ontology file.</p>
+<p>Figure 3</p>
+<p>Protégé allows you to save your ontology in a variety of OWL formats, including the OBO 1.2 flat file format. We recommend that you save your ontology in RDF/XML, as this is the most stable format to work with in Protégé. You can always choose to export your file in one of the other formats later.  Click OK to continue. Name your ontology, perhaps tutorial.owl. Choose a location on your computer to save your ontology.</p>
+<div class="section" id="the-protege-ui">
+<span id="the-protege-ui"></span><h2>The Protégé UI<a class="headerlink" href="#the-protege-ui" title="Permalink to this headline">¶</a></h2>
+<p>The Protégé interface follows a basic paradigm of Tabs and Panels. By default, Protégé launches with the main tabs seen below. The layout of tabs and panels is configurable by the user.  The Tab list will have slight differences from version to version, and depending on your configuration.  It will also reflect your customizations.</p>
+<p>To customize your view, go to the Window tab on the toolbar and select Views. Here you can customize which panels you see in each tab. In the tabs view, you can select which tabs you will see. You will commonly want to see the Entities tab and/or Classes tab and the Object Properties tab.</p>
+<p>Figure 4</p>
+<p>The first tab you see is the Active Ontology tab. Here you will find some basic meta-data about the ontology you are viewing. At the very top you see the IRI and file name of the active ontology you are viewing. Protégé allows you to work with multiple ontologies at once, so <em>this top bar is very important as it lets you know which ontology you are viewing and editing</em>.</p>
+<p>Note: if you open a new ontology while viewing your current ontology, Protégé will ask you if you<p>’</p>
+d like to open it in a new window. If you select no;, it will open in the current window and you can then switch back and forth to it from the Active Ontology tab.</p>
+<p>If you say yes, it will open in a new window. If you use a Mac, you can toggle back and forth between each window by using the hot keys Command ~.</p>
+<p>Figure5</p>
+<p>The panel in the center is the ontology annotations panel. You can use this panel to add basic meta-data to your ontology, such as the creation date, the authors and a short description. Using the annotation panel, create a simple comment on the ontology describing what it is about. First select the + button that is labelled Annotations.</p>
+<p>Figure6</p>
+<p>A dialog will open, select the comment annotation on the left, and type your text into the text box on the right-hand side.  Click OK; to add the annotation.</p>
+<p>Figure7</p>
+<p>The comment should appear in the ontology annotations where you have the option to either edit or delete it. Throughout the application, the grey-circle icons have related functionality: a <strong>+</strong> is used to add, <strong>x</strong> to delete, and <strong>o</strong> to edit.</p>
+<p>Figure8</p>
+<p>The active ontology tab contains additional information about the ontology that we will explore later. These include a panel for managing ontology imports.</p>
+</div>
+</div>
+<div class="section" id="the-entities-tab">
+<span id="the-entities-tab"></span><h1>The entities tab<a class="headerlink" href="#the-entities-tab" title="Permalink to this headline">¶</a></h1>
+<p>You will see along the top of the screen various tabs. Each tab provides a different perspective on the ontology. An entity is any class, property (object, data, or annotation), or individual. For example, the classes tab allows us to view and edit the classes in the ontology, and similarly the object properties tab focuses on the object properties in the ontology. The <em>primary tab</em> where you will spend most of your time is the Entities tab.</p>
+<p>Figure 9</p>
+<p>Select the Entities tab and then select the Thing class. Thing is the root class for all OWL ontologies and it cannot be deleted in Protégé.</p>
+<p>The Entities tab is split into two halves. The left-hand side provides a suite of panels for selecting various entities in your ontology. When a particular entity is selected the panels on the right-hand side display information about that entity. The entities panel is context specific, so if you have a class selected (like Thing) then the panels on the right are aimed at editing classes. The panels on the right are customizable. Based on prior use you may see new panes or alternate arrangements.</p>
+<p>Figure 10</p>
+<div class="section" id="creating-your-first-class">
+<span id="creating-your-first-class"></span><h2>Creating your first class<a class="headerlink" href="#creating-your-first-class" title="Permalink to this headline">¶</a></h2>
+<p>By far the most common panel for working with your ontology is the <strong>Class hierarchy panel.</strong></p>
+<p>Figure 11</p>
+<p>There are three button at the top of the class hierarchy view. These allow you to add a <strong>subclass (L-shaped icon)</strong>, <strong>add a sibling class (c-shaped icon)</strong>, or <strong>delete a selected class (x’d circle)</strong>. Click the add subclass button to add a child class to OWL thing.</p>
+<p>Figure 12</p>
+</div>
+</div>
+<div class="section" id="exercise-basic-subclass-hierarchy">
+<span id="exercise-basic-subclass-hierarchy"></span><h1>Exercise: Basic Subclass Hierarchy<a class="headerlink" href="#exercise-basic-subclass-hierarchy" title="Permalink to this headline">¶</a></h1>
+<p>From ReadTheDocs (maybe can remove?)
+Indices and tables
+==================</p>
 <ul class="simple">
 <li>:ref:<code class="docutils literal notranslate"><span class="pre">genindex</span></code></li>
 <li>:ref:<code class="docutils literal notranslate"><span class="pre">modindex</span></code></li>
 <li>:ref:<code class="docutils literal notranslate"><span class="pre">search</span></code></li>
 </ul>
 <p>This will be my documentation.</p>
+<p>.. toctree::
+:maxdepth: 2
+:caption: Contents:</p>
+<p>.. Ontology101Tutorial documentation master file, created by
+sphinx-quickstart on Tue Feb 20 10:22:22 2018.
+You can adapt this file completely to your liking, but it should at least
+contain the root <code class="docutils literal notranslate"><span class="pre">toctree</span></code> directive.</p>
 </div>
 
 
@@ -60,9 +131,23 @@ contain the root <code class="docutils literal notranslate"><span class="pre">to
         <div class="sphinxsidebarwrapper">
   <h3><a href="#">Table Of Contents</a></h3>
   <ul>
-<li><a class="reference internal" href="#">Welcome to Ontology101Tutorial’s documentation!</a></li>
-<li><a class="reference internal" href="#this-will-be-my-documentation-welcome">This will be my documentation- welcome</a></li>
-<li><a class="reference internal" href="#indices-and-tables">Indices and tables</a></li>
+<li><a class="reference internal" href="#">Ontology 101 Tutorial</a><ul>
+<li><a class="reference internal" href="#history-of-this-tutorial">History of this tutorial</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#initial-preparation">Initial Preparation</a><ul>
+<li><a class="reference internal" href="#dowloading-protege">Dowloading Protégé</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#starting-protege">Starting Protégé</a><ul>
+<li><a class="reference internal" href="#the-protege-ui">The Protégé UI</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#the-entities-tab">The entities tab</a><ul>
+<li><a class="reference internal" href="#creating-your-first-class">Creating your first class</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#exercise-basic-subclass-hierarchy">Exercise: Basic Subclass Hierarchy</a></li>
 </ul>
 <div class="relations">
 <h3>Related Topics</h3>
