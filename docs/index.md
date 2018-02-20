@@ -33,14 +33,19 @@ To download Protégé, go to: [http://protege.stanford.edu/](http://protege.stan
 
 When you start Protégé you are presented with a default empty ontology. Note that command line users on the Mac can type “open <FILE>.owl” to open the ontology in Protégé.
 
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
 ![alt text][logo]
 
 [logo]: https://github.com/OHSUBD2K/BDK14-Ontologies-101/blob/master/docs/images/Figure1.png "Logo Title Text 2"
 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
+[logo]: https://github.com/OHSUBD2K/BDK14-Ontologies-101/blob/master/docs/images/Figure1.png "Logo Title Text 2"
 
 We will begin by clicking into the Ontology IRI field and providing an IRI. The IRI will be used to identify our ontology on the Web. You can set the IRI to anything you want at this stage, for this tutorial we will use "http://purl.obolibrary.org/obo/owl-tutorial/ao-workshop.owl"
 
