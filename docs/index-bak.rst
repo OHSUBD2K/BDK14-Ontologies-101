@@ -13,6 +13,18 @@ Welcome to Ontology101Tutorial's documentation!
    IntialPreparation
    StartingProtege
    EntitiesTab
+   EXERCISE_BasicSubclassHierarchy.md
+   ProtegePlugins.md
+   Disjointness.md
+   EXERCISE_BasicDisjoint.md
+   ObjectProperties.md
+   OWL_ClassRestrictions.md
+   EXERCISE_BasicRestrictions.md
+   DL_QueryTab.md
+   EXERCISE_BasicDL_Queries.md
+   AutomaticClassification.md
+   EXERCISE_BasicClassification.md	
+   EXERCISE_MoreBasicClassification.md
 
 Indices and tables
 ==================
