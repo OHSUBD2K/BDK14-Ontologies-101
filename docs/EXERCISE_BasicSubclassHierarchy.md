@@ -1,4 +1,3 @@
-
 # EXERCISE: Basic Subclass Hierarchy
 
 Go to the directory basic-subclass in the BD2K14\_exercises folder and open /basic-subclass/chromosome-parts.owl.
@@ -46,7 +45,7 @@ You will add the annotation values listed are below, detailed instructions follo
 
 **id:** GO\_0005657
 
-**rdfs:label:** replication fork
+**rdfs: label:** replication fork
 
 **definition:** The Y-shaped region of a replicating DNA molecule, resulting from the separation of the DNA strands and in which the synthesis of new strands takes place. Also includes associated protein complexes.
 
@@ -84,7 +83,7 @@ Figure 31
 - Repeat for the other cross reference: ISBN:0198547684
 - Your annotations should look like the screenshot below.
 
-  ­ Figure 32
+ Figure 32
 
 **A related synonym**
 
