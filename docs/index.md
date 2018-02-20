@@ -3,14 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Ontology101Tutorial's documentation!
+Welcome to the Ontology 101 Tutorial
 ===============================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-# This will be my documentation- welcome
+This will be my documentation- welcome
 
 Indices and tables
 ==================
