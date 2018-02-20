@@ -20,7 +20,7 @@ _Add Subclass_
     
     a. To find the class 'chromosomal part', you can navigate through the hierarchy, or use the search function, see screenshot below. Make sure you select "Show all results". In the search results, double click on the highlighted class and it will open it up in the Class hierarchy pane.
 
-Figure 26
+![](./media/Figure26.png)
 
 _Moving around classes:_
 
@@ -29,7 +29,7 @@ _Moving around classes:_
 
 Your hierarchy should look something like this:
 
-Figure 27
+![](./media/Figure27.png)
 
 _Annotations_
 
@@ -38,7 +38,7 @@ The goal is to recreate the existing information from GO on the "replication for
 5. Click on the 'replication fork' class you just created.
 6. In the Annotations pane on the right, use the (+) next to 'Annotations' to add an annotation.
 
-Figure 28
+![](./media/Figure28.png)
 
 You will add the annotation values listed are below, detailed instructions follow. Make sure you click on the correct annotation on the left for each annotation.
 
@@ -63,16 +63,16 @@ Add the following (using the values above)
 - By default, the window should be on the "Literal" tab
 - Click (select) "definition" on the left
 
-Figure 29
+![](./media/Figure29.png)
 
 - Enter the definition in the window: The Y-shaped region of a replicating DNA molecule, resulting from the separation of the DNA strands and in which the synthesis of new strands takes place. Also includes associated protein complexes. _Note: Make sure there are not any extra spaces at the end of the sentence._
 - Click OK. The annotation should appear in the Annotations window.
 
-Figure 30
+![](./media/Figure30.png)
 
 **2. dbxrefs to the text definition**
 
-Figure 31
+![](./media/Figure31.png)
 
 - Click the (@) icon beside the definition annotation
 - A new box will open, and click the (+) beside Annotations
@@ -81,7 +81,7 @@ Figure 31
 - Repeat for the other cross reference: ISBN:0198547684
 - Your annotations should look like the screenshot below.
 
- Figure 32
+![](./media/Figure32.png)
 
 **A related synonym**
 
@@ -95,14 +95,14 @@ Figure 31
 
 Your annotation pane should look something like this:
 
-Figure 33
+![](./media/Figure33.png)
 
 **Synonym properties:**
 
 7. Add the subclass "site of double-strand break" to the ontology under "chromosomal part"
 8. Add a synonym with a dbxref annotation. E.g. synonym: "site of DSB" has\_exact\_synonym [PMID:21035408]
 
-Figure 34
+![](./media/Figure34.png)
 
 Note that there are different synonym annotations:
 - has\_exact\_synonym: a synonym that has the exact same meaning as the class name
@@ -115,18 +115,18 @@ Open the ontology chromosome-parts-interim.owl, found in the "basic-subclass" ex
 
 We have seen how to add sub/superclasses and annotate the class hierarchy. Another way to do the same thing is via the Class description view (circled in the figure below). When an OWL class is selected in the entities view, the right-hand side of the tab shows the class description panel. If we select the **cell** class, we see in the class description view that this class is a "SubClass Of" (= has a _SuperClass_) the **cellular\_component** class. Using the (+) button beside "SubClass Of" we could add another superclass to the cell class.
 
-Figure 35
+![](./media/Figure35.png)
 
 Select the **intracellular organelle part** class in your ontology. Notice it is a SubClass of **organelle part.** Using the SubClass Of (+) button, add the **organelle** class as a super class. There are various ways to assert a superclass. The simplest it to just type in the class expression editor. _Hint: Pressing Tab (or CTRL + SPACE on a Mac) allows you to autocomplete on a term._
 
-Figure 36
+![](./media/Figure36.png)
 
 You can also use the class hierarchy tab here to search, browse and select the appropriate class.
 
-Figure 37
+![](./media/Figure37.png)
 
 The **intracellular organelle part** class will now have two parents asserted in the class hierarchy. You will also be able to see both parents in the class description view.
 
-Figure 38
+![](./media/Figure38.png)
 
 Save your interim ontology to your computer. _Note: You will use this same file in the next section: Disjointness._
