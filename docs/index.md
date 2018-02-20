@@ -1,4 +1,4 @@
-### Welcome to the Ontology 101 Tutorial
+### Ontology 101 Tutorial
 #### History of this tutorial
 
 This tutorial was based upon an earlier version developed at a [Hinxton Workshop](http://wiki.geneontology.org/index.php/Hinxton_OBO-Edit/Protege_4_workshop_Jan_2012) authored by Chris Mungall, David Osumi-Sutherland, and Simon Jupp.
