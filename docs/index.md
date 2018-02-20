@@ -6,11 +6,20 @@
 Welcome to the Ontology 101 Tutorial
 ===============================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+History of this Document
+===============================================
 
-This will be my documentation- welcome
+Initial Preparation
+===============================================
+
+Starting Protégé
+===============================================
+
+The entities tab
+===============================================
+
+EXERCISE: Basic Subclass Hierarchy
+===============================================
 
 Indices and tables
 ==================
@@ -20,3 +29,7 @@ Indices and tables
 * :ref:`search`
 
 This will be my documentation.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
