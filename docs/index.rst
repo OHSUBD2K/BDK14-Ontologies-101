@@ -27,3 +27,11 @@ Welcome to Ontology101Tutorial's documentation!
    EXERCISE_MoreBasicClassification
 
 
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
+This will be my documentation.
