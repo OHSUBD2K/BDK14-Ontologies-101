@@ -12,8 +12,8 @@ The anonymous class expression 'part\_of some hand'; represents the set of all i
 Instructions:
 
 1. Open er-sec-complex.owl from the basic-restiction folder
-2. Navigate to the class &quot;protein complex&quot; using the search box
-3. Add a class 'endoplasmic reticulum Sec complex' as a subclass of &quot;protein complex&quot;
+2. Navigate to the class 'protein complex' using the search box
+3. Add a class 'endoplasmic reticulum Sec complex' as a subclass of 'protein complex'
 4. Say that every 'endoplasmic reticulum Sec complex' is part of a 'rough endoplasmic reticulum membrane'
 
 ![](./media/Figure54.png)
