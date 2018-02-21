@@ -2,6 +2,8 @@
    sphinx-quickstart on Tue Feb 20 10:22:22 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
+   
+.. Removed EXERCISE_BasicDisjoint
 
 Ontology 101 Tutorial
 ===============================================
@@ -16,7 +18,6 @@ Ontology 101 Tutorial
    EXERCISE_BasicSubclassHierarchy
    ProtegePlugins
    Disjointness
-   EXERCISE_BasicDisjoint
    ObjectProperties
    OWL_ClassRestrictions
    EXERCISE_BasicRestrictions
