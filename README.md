@@ -34,6 +34,8 @@ Unit 3 Slides: BDK14-3.pptx
 **Exercises:**
 BDK14_exercises/BDK14_Exercise_1_Protege5.1.doc
 
+_In progress_ - the exercises are being moved to [http://ontology101tutorial.readthedocs.io/en/latest/](http://ontology101tutorial.readthedocs.io/en/latest/)
+
 Folders:
 - basic-classification
 - basic-disjoint

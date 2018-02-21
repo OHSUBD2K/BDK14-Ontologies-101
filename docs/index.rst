@@ -3,28 +3,29 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Ontology101Tutorial's documentation!
+Ontology 101 Tutorial
 ===============================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
    
-   IntialPreparation
+   InitialPreparation
    StartingProtege
    EntitiesTab
-   EXERCISE_BasicSubclassHierarchy.md
-   ProtegePlugins.md
-   Disjointness.md
-   EXERCISE_BasicDisjoint.md
-   ObjectProperties.md
-   OWL_ClassRestrictions.md
-   EXERCISE_BasicRestrictions.md
-   DL_QueryTab.md
-   EXERCISE_BasicDL_Queries.md
-   AutomaticClassification.md
-   EXERCISE_BasicClassification.md	
-   EXERCISE_MoreBasicClassification.md
+   EXERCISE_BasicSubclassHierarchy
+   ProtegePlugins
+   Disjointness
+   EXERCISE_BasicDisjoint
+   ObjectProperties
+   OWL_ClassRestrictions
+   EXERCISE_BasicRestrictions
+   DL_QueryTab
+   EXERCISE_BasicDL_Queries
+   AutomaticClassification
+   EXERCISE_BasicClassification	
+   EXERCISE_MoreBasicClassification
+
 
 Indices and tables
 ==================
@@ -33,4 +34,3 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-This will be my documentation.
