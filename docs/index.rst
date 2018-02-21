@@ -34,4 +34,3 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-This will be my documentation.
