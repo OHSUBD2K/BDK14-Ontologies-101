@@ -8,8 +8,6 @@ We want to assert that **organelle** and **organelle part** are disjoint. To do 
 
 ![](./media/Figure42.png)
 
-
-
 Note that the directionality is irrelevant.  Prove this to yourself by deleting the disjoint axiom, and adding it back from **organelle part**.
 
 ## Reasoning and inconsistency checking
@@ -30,18 +28,12 @@ Here you will a special class called **Nothing**. When we previously said that a
 
 ![](./media/Figure45.png)
 
-
-
 Once the ontology is classified inferred statements or axioms are shown in the various panels with a light-yellow shading. The class description for **intracellular organelle part** should look something like the screen shot below. You will see that the class has been asserted equivalent to the **Nothing** class. Inside this statement, a small question mark icon appears, clicking this will get an explanation from the reasoner for this inconsistency.
 
 ![](./media/Figure46.png)
-
-
 
 Select the (?) icon to get an explanation for this inconsistency. The explanation shows the axioms involved. We see the disjoint class axiom alongside the two subclass axioms are causing the inconsistency. We can simply repair this ontology by removing the **intracellular organelle part** subClassOf **organelle** axiom.
 
 ![](./media/Figure47.png)
 
-
-
-Remove the Disjoint with axiom (click the (x) beside **organelle** in the Description pane for **intracellular organelle part** ), and resynchronise the reasoner from the reasoner menu. Save your ontology, you'll return to it after this following exercise.
+Remove the Disjoint with axiom (click the (x) beside **organelle** in the Description pane for **intracellular organelle part**), and resynchronise the reasoner from the reasoner menu. Save your ontology, you'll return to it after this following exercise.
