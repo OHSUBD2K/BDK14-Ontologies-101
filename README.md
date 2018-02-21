@@ -4,7 +4,7 @@
 
 **Module Description:** Introduction to OWL2 and data reasoning
 
-**Authors:** Nicole Vasilevsky, Melissa Haendel, David Osumi-Sutherland, Matt Yoder, Carlo Torniai
+**Authors:** Nicole Vasilevsky, Melissa Haendel, Chris Mungall, David Osumi-Sutherland, Matt Yoder, Carlo Torniai, and Simon Jupp
 
 ## Module Objectives:
 
