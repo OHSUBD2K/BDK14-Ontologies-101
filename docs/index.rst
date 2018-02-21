@@ -10,7 +10,7 @@ Welcome to Ontology101Tutorial's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   IntialPreparation
+   InitialPreparation
    StartingProtege
    EntitiesTab
    EXERCISE_BasicSubclassHierarchy
