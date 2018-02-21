@@ -3,11 +3,11 @@
 
 This example illustrates how to use object properties to make existential restrictions.
 
-In OWL, it helps to think in terms of the set of entities represented by each class. To say: &quot;every finger is part of a hand&quot; we say:
+In OWL, it helps to think in terms of the set of entities represented by each class. To say: 'every finger is part of a hand' we say:
 
 finger SubClassOf part\_of some hand
 
-The anonymous class expression &quot;part\_of some hand&quot; represents the set of all instances that have a part\_of relationship to a hand. Every member of the set of all fingers is a member of the set of all things that are part of a hand.
+The anonymous class expression 'part\_of some hand'; represents the set of all instances that have a part\_of relationship to a hand. Every member of the set of all fingers is a member of the set of all things that are part of a hand.
 
 Instructions:
 
