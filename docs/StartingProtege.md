@@ -6,11 +6,11 @@ When you start Protégé you are presented with a default empty ontology. Note t
 
 We will begin by clicking into the Ontology IRI field and providing an IRI. The IRI will be used to identify our ontology on the Web. You can set the IRI to anything you want at this stage, for this tutorial we will use "http://purl.obolibrary.org/obo/owl-tutorial/ao-workshop.owl"
 
-Figure2
+![](./media/Figure2.png)
 
 You will also want to save this ontology file to your computer. Under the File menu select Save.  Use the next dialog box to specify the format of your ontology file.
 
-Figure 3
+![](./media/Figure3.png)
 
 Protégé allows you to save your ontology in a variety of OWL formats, including the OBO 1.2 flat file format. We recommend that you save your ontology in RDF/XML, as this is the most stable format to work with in Protégé. You can always choose to export your file in one of the other formats later.  Click OK to continue. Name your ontology, perhaps tutorial.owl. Choose a location on your computer to save your ontology.
 
@@ -20,7 +20,7 @@ The Protégé interface follows a basic paradigm of Tabs and Panels. By default,
 
 To customize your view, go to the Window tab on the toolbar and select Views. Here you can customize which panels you see in each tab. In the tabs view, you can select which tabs you will see. You will commonly want to see the Entities tab and/or Classes tab and the Object Properties tab.
 
-Figure 4
+![](./media/Figure4.png)
 
 The first tab you see is the Active Ontology tab. Here you will find some basic meta-data about the ontology you are viewing. At the very top you see the IRI and file name of the active ontology you are viewing. Protégé allows you to work with multiple ontologies at once, so _this top bar is very important as it lets you know which ontology you are viewing and editing_.
 
@@ -28,18 +28,18 @@ Note: if you open a new ontology while viewing your current ontology, Protégé 
 
 If you say yes, it will open in a new window. If you use a Mac, you can toggle back and forth between each window by using the hot keys Command ~.
 
-Figure5
+![](./media/Figure5.png)
 
 The panel in the center is the ontology annotations panel. You can use this panel to add basic meta-data to your ontology, such as the creation date, the authors and a short description. Using the annotation panel, create a simple comment on the ontology describing what it is about. First select the + button that is labelled Annotations.
 
-Figure6
+![](./media/Figure6.png)
 
 A dialog will open, select the comment annotation on the left, and type your text into the text box on the right-hand side.  Click OK; to add the annotation.
 
-Figure7
+![](./media/Figure7.png)
 
 The comment should appear in the ontology annotations where you have the option to either edit or delete it. Throughout the application, the grey-circle icons have related functionality: a **+** is used to add, **x** to delete, and **o** to edit.
 
-Figure8
+![](./media/Figure8.png)
 
 The active ontology tab contains additional information about the ontology that we will explore later. These include a panel for managing ontology imports.
