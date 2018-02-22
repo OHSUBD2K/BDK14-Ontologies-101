@@ -38,7 +38,7 @@ The goal is to recreate the existing information from GO on the "replication for
 5. Click on the 'replication fork' class you just created.
 6. In the Annotations pane on the right, use the (+) next to 'Annotations' to add an annotation.
 
-![](./media/Figure28.png)
+![](./media/Figure27-2.png)
 
 You will add the annotation values listed are below, detailed instructions follow. Make sure you click on the correct annotation on the left for each annotation.
 
@@ -63,7 +63,7 @@ Add the following (using the values above)
 - By default, the window should be on the "Literal" tab
 - Click (select) "definition" on the left
 
-![](./media/Figure29.png)
+![](./media/Figure28.png)
 
 - Enter the definition in the window: The Y-shaped region of a replicating DNA molecule, resulting from the separation of the DNA strands and in which the synthesis of new strands takes place. Also includes associated protein complexes. _Note: Make sure there are not any extra spaces at the end of the sentence._
 - Click OK. The annotation should appear in the Annotations window.
