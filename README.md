@@ -17,7 +17,7 @@ At the completion of this component, the learner will be able to:
 
 **Unit 2: An Introduction to OWL**: Slides: [BDK14-2.pptx](https://github.com/OHSUBD2K/BDK14-Ontologies-101/blob/master/BDK14-2.pptx)
 
-**Unit 3: Ontology Community**: Slides: [BDK14-3.pptx]((https://github.com/OHSUBD2K/BDK14-Ontologies-101/blob/master/BDK14-3.pptx)
+**Unit 3: Ontology Community**: Slides: [BDK14-3.pptx](https://github.com/OHSUBD2K/BDK14-Ontologies-101/blob/master/BDK14-3.pptx)
 
 **Exercise:**
 [Ontology 101 Tutorial](http://ontology101tutorial.readthedocs.io/en/latest/)
