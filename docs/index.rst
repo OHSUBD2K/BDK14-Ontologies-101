@@ -25,7 +25,7 @@ Ontology 101 Tutorial
    EXERCISE_BasicDL_Queries
    EXERCISE_BasicClassification	
    EXERCISE_MoreBasicClassification
-   EXERCISE_DomainsAndProperties
+   EXERCISE_DomainsAndRanges
 
 
 Indices and tables
