@@ -62,11 +62,13 @@ Note that all OBO library ontologies should use the “Specified URI” value: h
 
 Using Protégé you can add annotations such as labels, descriptions, cross references (xrefs) to any OWL entity. The panel on the right, named Annotations, is where these annotations are added. Use this panel to add a **cellular_component** label to the class you created previously (notice how when changed the IRI, you also lost your label. This is because the label was previously part of the IRI, and Protégé was rendering the label based on the IRI. We’ll fix that in a minute.)  Click on the GO labelled class to select it.
 
-Select the + button to add an annotation to the selected entity. Protégé has a set of built in annotation properties, such as label and comment – add rdfs:label “cellular_component” and click OK. You can also add a comment such as “created during BDK14 tutorial”, by clicking the + sign again, choosing “rdfs:comment” on the left hand side bar, and typing your comment in the “Literal” box, then click OK. 
-
 ![](./media/Figure20.png)
 
+Select the + button to add an annotation to the selected entity. Protégé has a set of built in annotation properties, such as label and comment – add rdfs:label “cellular_component” and click OK. You can also add a comment such as “created during BDK14 tutorial”, by clicking the + sign again, choosing “rdfs:comment” on the left hand side bar, and typing your comment in the “Literal” box, then click OK. 
+
 ![](./media/Figure21.png)
+
+![](./media/Figure22.png)
 
 Note that often you will start from an existing OWL file, then your ontology will include a pre-declared set of annotation properties such as ‘has exact synonym’ and ‘definition’. _You may never need to create your own annotation properties._
 
@@ -76,11 +78,10 @@ You can change how Protégé renders entities. It is common to want to view enti
 
 In the View menu choose “Render by label”:
 
-![](./media/Figure22.png)
+![](./media/Figure23.png)
 
 The **cellular_component** class will now render in the hierarchy view using the value of the label annotation property. Note that the ability to flip between different renderings can often be very useful in old versions of Protégé, as the Protégé search box in the upper right searches on whatever is rendered.  If you are using an older version of Protégé, searching for a term by ID for example, it can be useful to render by ID and then flip back to render by label. In the 5.1 version, the search box will search for either labels or ID.
 
-![](./media/Figure23.png)
 
 #### Creating the class hierarchy
 
@@ -88,10 +89,10 @@ We will now create a simple class hierarchy. In Protégé, ‘class hierarchy’
 
 Classes may be quickly added to an ontology with the **add subclass (vertical arrow below)** and **add sibling class (horizontal arrow below)** icons in the class hierarchy view.
 
-Figure 24
+![](./media/Figure25.png)
 
 Use the **add subclass (vertical arrow below)** and add **sibling class (horizontal arrow below)** buttons to create a hierarchy that looks like the following (your window will look slightly different than the view below which is from an earlier version of Protégé).  Note that you can click and drag classes in the hierarchy to re-arrange them. When planning your own ontology take a good amount of time to standardize your label format, check other ontologies, and be consistent.
 
-![](./media/Figure25.png)
+![](./media/Figure25-2.png)
 
 Don’t bother to add textual definitions, synonyms, etc. at this stage, as you won’t be using this ontology in latter exercises. _Note: the order of the classes in your Class hierarchy may not be the same as you see in the screenshot (e.g. 'cell part' may appear above cell). Don’t worry about this. Just make sure that the subclass relationships are correct._
