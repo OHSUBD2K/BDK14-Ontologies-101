@@ -5,7 +5,7 @@
 
 The file you need is in the basic-classification folder. Follow the instructions below.
 
-This example introduces 'defined classes' and automatic classification. The example involves classification of different ubiquitin ligase complexes. It is based on a subset of the gene ontology (GO) (http://purl.obolibrary.org/obo/go.owl) with some classes removed for teaching purposes.
+This example introduces 'defined classes' and automatic classification. The example involves classification of different ubiquitin ligase complexes. It is based on a subset of the gene ontology (GO) [http://purl.obolibrary.org/obo/go.owl](http://purl.obolibrary.org/obo/go.owl) with some classes removed for teaching purposes.
 
 Constructs:
 
