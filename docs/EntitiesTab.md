@@ -62,9 +62,9 @@ Note that all OBO library ontologies should use the “Specified URI” value: h
 
 Using Protégé you can add annotations such as labels, descriptions, cross references (xrefs) to any OWL entity. The panel on the right, named Annotations, is where these annotations are added. Use this panel to add a **cellular_component** label to the class you created previously (notice how when changed the IRI, you also lost your label. This is because the label was previously part of the IRI, and Protégé was rendering the label based on the IRI. We’ll fix that in a minute.)  Click on the GO labelled class to select it.
 
-![](./media/Figure20.png)
-
 Select the + button to add an annotation to the selected entity. Protégé has a set of built in annotation properties, such as label and comment – add rdfs:label “cellular_component” and click OK. You can also add a comment such as “created during BDK14 tutorial”, by clicking the + sign again, choosing “rdfs:comment” on the left hand side bar, and typing your comment in the “Literal” box, then click OK. 
+
+![](./media/Figure20.png)
 
 ![](./media/Figure21.png)
 
