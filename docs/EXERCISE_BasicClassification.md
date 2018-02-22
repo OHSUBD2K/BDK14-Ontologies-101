@@ -32,7 +32,7 @@ GO includes pre-composed grouping classes such as 'chromosomal part' and 'nuclea
 
 1. Synchronize the reasoner
 2. Find the class you made under 'Class hierarchy (inferred)'
-3. You should see 'cytoplasmic part' is not inferred to be a parent class of 'cytoplasmic ubiquitin ligase complex'.
+3. You should see 'cytoplasmic part' is now inferred to be a parent class of 'cytoplasmic ubiquitin ligase complex'.
 
 ![](./media/Figure75.png)
 
