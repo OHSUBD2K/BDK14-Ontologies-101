@@ -1,15 +1,11 @@
-# BD2K Open Educational Resources
+## BD2K Open Educational Resources: BDK14 Ontologies 101
 
-## BDK14 Ontologies 101
+**Introduction to OWL2 and data reasoning**
 
-**Module Description:** Introduction to OWL2 and data reasoning
-
-**Authors:** Nicole Vasilevsky, Melissa Haendel, Chris Mungall, David Osumi-Sutherland, Matt Yoder, Carlo Torniai, and Simon Jupp
+**Contributors:** Nicole Vasilevsky, Melissa Haendel, Chris Mungall, David Osumi-Sutherland, Matt Yoder, Carlo Torniai, and Simon Jupp
 
 ## Module Objectives:
-
 At the completion of this component, the learner will be able to:
-
 1. Describe logical inference and data classification strategies using ontologies
 2. Understand the Web Ontology Language (OWL)
 3. How to participate in ontology development communities
@@ -17,24 +13,14 @@ At the completion of this component, the learner will be able to:
 **Module Prerequisites:** None
 
 ## Module Units
-### Unit 1: Controlled Vocabularies, Ontologies, and Data Linking
+**Unit 1: Controlled Vocabularies, Ontologies, and Data Linking**: Slides: BDK14-1.pptx
 
-Unit 1 Slides: BDK14-1.pptx
+**Unit 2: An Introduction to OWL**: Slides: BDK14-2.pptx
 
-### Unit 2: An Introduction to OWL
+**Unit 3: Ontology Community**: Slides: BDK14-3.pptx
 
-Unit 2 Slides: BDK14-2.pptx
-
-### Unit 3: Ontology Community
-
-Unit 3 Slides: BDK14-3.pptx
-
-### Module Supplemental Materials
-
-**Exercises:**
-BDK14_exercises/BDK14_Exercise_1_Protege5.1.doc
-
-_In progress_ - the exercises are being moved to [http://ontology101tutorial.readthedocs.io/en/latest/](http://ontology101tutorial.readthedocs.io/en/latest/)
+**Exercise:**
+[Ontology 101 Tutorial](http://ontology101tutorial.readthedocs.io/en/latest/)
 
 Folders:
 - basic-classification
