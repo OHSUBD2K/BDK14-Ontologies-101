@@ -72,9 +72,10 @@ Add the following (using the values above)
 
 **2. dbxrefs to the text definition**
 
+- Click the (@) icon beside the definition annotation
+
 ![](./media/Figure31.png)
 
-- Click the (@) icon beside the definition annotation
 - A new box will open, and click the (+) beside Annotations
 - Select "database\_cross\_reference" in the left pane
 - Enter a value. This is often a PubMed ID (in the format PMID:xxxxxx) or your ORCID ID or initials. For this exercise, enter the initials: mah.
