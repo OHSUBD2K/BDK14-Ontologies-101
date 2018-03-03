@@ -2,7 +2,7 @@
 
 These exercises were tested under Protégé 5.1.
 
-You will need to clone this [repository](https://github.com/OHSUBD2K/BDK14-Ontologies-101) to download the exercise files.
+You will need to clone this [repository](https://github.com/OHSUBD2K/BDK14-Ontologies-101) to download the exercise files in the folder BDK14_exercises.
 
 Associated exercise files include:
 - basic-classification
