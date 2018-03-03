@@ -2,8 +2,9 @@
 
 These exercises were tested under Protégé 5.1.
 
-Associated exercise files include:
+You will need to clone this [repository](https://github.com/OHSUBD2K/BDK14-Ontologies-101) to download the exercise files.
 
+Associated exercise files include:
 - basic-classification
 - basic-disjoint
 - basic-dl-query
