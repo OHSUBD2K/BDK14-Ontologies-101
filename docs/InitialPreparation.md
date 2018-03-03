@@ -19,7 +19,7 @@ _Note: some screenshots may appear different if you are using a prior version of
 
 Instructions to clone a repository using the command line are available [here](https://services.github.com/on-demand/github-cli/clone-repo-cli).
 
-You can also install a graphical user interface like [Sourcetree](https://www.sourcetreeapp.com/) or [GitHub desktop](https://desktop.github.com/).
+You can also install a graphical user interface like [Sourcetree](https://www.sourcetreeapp.com/) or [GitHub Desktop](https://desktop.github.com/).
 
 #### Dowloading Protégé
 
