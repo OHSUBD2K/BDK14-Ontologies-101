@@ -33,5 +33,5 @@ Ontology 101 Tutorial
 
 .. * :ref:`genindex`
 .. * :ref:`modindex`
-* :ref:`search`
+.. * :ref:`search`
 
