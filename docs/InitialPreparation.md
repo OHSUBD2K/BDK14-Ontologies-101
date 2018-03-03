@@ -1,7 +1,5 @@
 ### Initial Preparation
 
-These exercises were tested under Protégé 5.1.
-
 You will need to clone this [repository](https://github.com/OHSUBD2K/BDK14-Ontologies-101) to download the exercise files in the folder BDK14_exercises.
 
 Associated exercise files include:
@@ -13,7 +11,7 @@ Associated exercise files include:
 - domain-range
 - taxon-union
 
-_Note: some screenshots may appear different if you are using a prior version of Protégé._
+These exercises were tested under Protégé 5.1. _Note: some screenshots may appear different if you are using a prior version of Protégé._
 
 #### Cloning the GitHub repository
 
