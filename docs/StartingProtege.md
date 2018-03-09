@@ -1,6 +1,14 @@
 ### Starting Protégé
 
-When you start Protégé you are presented with a default empty ontology. Note that command line users on the Mac can type “open <FILE>.owl” to open the ontology in Protégé.
+When you start Protégé you are presented with a default empty ontology. 
+
+To open Protege on the command line, navigate to your directory where your application is stored. 
+See example below:
+```
+cd /Applications
+cd Protege-5.1.0/
+```
+Type the command `open Protege.app` to open the Protégé application.
 
 ![](./media/Figure1.png)
 
