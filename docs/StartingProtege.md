@@ -1,6 +1,14 @@
 ### Starting Protégé
 
-When you start Protégé you are presented with a default empty ontology. Note that command line users on the Mac can type “open <FILE>.owl” to open the ontology in Protégé.
+When you start Protégé you are presented with a default empty ontology. 
+
+To open Protege on the command line, navigate to your directory where your application is stored. 
+See example below:
+```
+cd /Applications
+cd Protege-5.1.0/
+```
+Type the command `open Protege.app` to open the Protégé application.
 
 ![](./media/Figure1.png)
 
@@ -24,7 +32,7 @@ To customize your view, go to the Window tab on the toolbar and select Views. He
 
 The first tab you see is the Active Ontology tab. Here you will find some basic meta-data about the ontology you are viewing. At the very top you see the IRI and file name of the active ontology you are viewing. Protégé allows you to work with multiple ontologies at once, so _this top bar is very important as it lets you know which ontology you are viewing and editing_.
 
-Note: if you open a new ontology while viewing your current ontology, Protégé will ask you if you&#39;d like to open it in a new window. If you select no;, it will open in the current window and you can then switch back and forth to it from the Active Ontology tab.
+Note: if you open a new ontology while viewing your current ontology, Protégé will ask you if you'd like to open it in a new window. If you select no;, it will open in the current window and you can then switch back and forth to it from the Active Ontology tab.
 
 If you say yes, it will open in a new window. If you use a Mac, you can toggle back and forth between each window by using the hot keys Command ~.
 
