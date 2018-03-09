@@ -36,6 +36,8 @@ Note: if you open a new ontology while viewing your current ontology, Protégé 
 
 If you say yes, it will open in a new window. If you use a Mac, you can toggle back and forth between each window by using the hot keys Command ~.
 
+![](./media/KeyboardShortcuts.png)
+
 ![](./media/Figure5.png)
 
 The panel in the center is the ontology annotations panel. You can use this panel to add basic meta-data to your ontology, such as the creation date, the authors and a short description. Using the annotation panel, create a simple comment on the ontology describing what it is about. First select the + button that is labelled Annotations.
