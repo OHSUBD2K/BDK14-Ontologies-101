@@ -42,3 +42,4 @@ Folders:
 
 [HPO Workbench](http://hpo-workbench.readthedocs.io/en/latest/): The HPO Workbench is a Java app designed as a browser for the Human Phenotype Ontology (HPO) terms and annotated diseases. HPO Workbench has a series of functions that can be used by collaborators to review and make suggestions for extending, correcting, or otherwise revising the HPO or the disease annotations.
 
+[See additional ontology tutuorials and resources here](https://tislab.org/ontologyResources.html)
