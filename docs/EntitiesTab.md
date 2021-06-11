@@ -16,7 +16,7 @@ By far the most common panel for working with your ontology is the **Class hiera
 
 ![](./media/Figure11.png)
 
-There are three button at the top of the class hierarchy view. These allow you to add a **subclass (L-shaped icon)**, **add a sibling class (c-shaped icon)**, or **delete a selected class (x’d circle)**. Click the add subclass button to add a child class to OWL thing. 
+There are three buttons at the top of the class hierarchy view. These allow you to add a **subclass (L-shaped icon)**, **add a sibling class (c-shaped icon)**, or **delete a selected class (x’d circle)**. Click the add subclass button to add a child class to OWL thing. 
 
 ![](./media/Figure12.png)
 
