@@ -1,5 +1,5 @@
 
-# EXERCISE: Basic Restictions
+# EXERCISE: Basic Restrictions
 
 This example illustrates how to use object properties to make existential restrictions.
 
